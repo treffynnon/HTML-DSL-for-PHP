@@ -1,9 +1,3 @@
-HTML-DSL-for-PHP
-================
-
-A simple HTML DSL for PHP - ultra simple and naive.
-
-```php
 <?php
 
 require_once 'util.php';
@@ -19,6 +13,5 @@ echo H\div(
 // Outputs the following HTML:
 //
 // <div class="my-section highlight">
-//     The content of my div appears here
+//     The content of my div appears here.
 // </div>
-```
