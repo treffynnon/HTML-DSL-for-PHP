@@ -1,3 +1,5 @@
+<?php
+
 /**
  * A DSL for simple HTML generation
  */
